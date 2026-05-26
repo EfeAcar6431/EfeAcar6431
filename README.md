@@ -4,8 +4,10 @@
 
 CS @ Northeastern University.
 
-https://efeacar.com \n
-https://www.linkedin.com/in/efe-acar/ \n
+https://efeacar.com 
+
+https://www.linkedin.com/in/efe-acar/ 
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efeacar2705@gmail.com)
 
 ---
