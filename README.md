@@ -1,6 +1,6 @@
 # Hey, I'm Efe
 
-**AI & Software Engineer** building production AI systems — forecasting engines, RAG pipelines, LLM evaluation frameworks, and multi-tenant SaaS platforms.
+**AI & Software Engineer** building production AI systems including forecasting engines, RAG pipelines, LLM evaluation frameworks, agentic assistants.
 
 CS @ Northeastern University.
 
