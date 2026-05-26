@@ -27,11 +27,5 @@ CS @ Northeastern University.
 
 ---
 
-### Tech I work with
-
-`Python` `TypeScript` `FastAPI` `Next.js` `React` `PostgreSQL` `Redis` `Docker`
-`OpenAI GPT-4o` `DeepEval` `Qdrant` `LangChain` `asyncpg` `SQLAlchemy` `Git` `Linux`
-
----
 
 <sub>More at [efeacar.com](https://efeacar.com)</sub>
