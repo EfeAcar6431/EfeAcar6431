@@ -2,7 +2,7 @@
 
 **AI & Software Engineer** building production AI systems including forecasting engines, RAG pipelines, LLM evaluation frameworks, agentic assistants.
 
-CS @ Northeastern University.
+CS at Northeastern University.
 
 https://efeacar.com 
 
