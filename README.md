@@ -1,6 +1,6 @@
 # Hey, I'm Efe
 
-**AI & Software Engineer** building production AI systems including forecasting engines, RAG pipelines, LLM evaluation frameworks, agentic assistants.
+**AI & Software Engineer** building production AI systems including autonomous coding agents, forecasting engines, RAG pipelines, LLM evaluation frameworks, and agentic assistants.
 
 CS at Northeastern University.
 
@@ -13,6 +13,12 @@ https://efeacar.com
 ---
 
 ### What I've been building
+
+**CodeRouter** — Autonomous coding agent with a model-routing brain ([github.com/Code-Router/CodeRouter](https://github.com/Code-Router/CodeRouter))
+- A planner LLM decomposes each prompt into a task DAG and picks the best-value model per task from a live scored catalog — frontier models for architecture, cheap/free models for tests and boilerplate
+- One agent per task in parallel git worktrees, with file-scope conflict serialization and 3-way merges into an integration branch
+- Lean per-agent context from a persisted SQLite repo index (symbol outlines + import graph); validators (lint/typecheck/tests) with bounded self-fix passes
+- Every plan, model assignment, cost, and merge is journaled and browsable — CLI, REPL, MCP server, and desktop app
 
 **ForesightAI** — AI-powered KPI forecasting for enterprise distribution networks (1,400+ endpoints)
 - GPT-4o analysis engine with multi-grain drill-down narrative reports
