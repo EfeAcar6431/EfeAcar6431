@@ -1,39 +1,55 @@
-# Hey, I'm Efe
+<div align="center">
 
-**AI & Software Engineer** building production AI systems including autonomous coding agents, forecasting engines, RAG pipelines, LLM evaluation frameworks, and agentic assistants.
+# Hey, I'm Efe 👋
 
-CS at Northeastern University.
+### AI & Software Engineer · CS @ Northeastern University
 
-https://efeacar.com 
+Building coding agents, useful AI tools, and systems people can trust.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-acar/)
+[![Website](https://img.shields.io/badge/Website-efeacar.com-16a34a?style=for-the-badge)](https://efeacar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/efe-acar/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge)](mailto:efeacar2705@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efeacar2705@gmail.com)
-
----
-
-### What I've been building
-
-**CodeRouter** — Autonomous coding agent with a model-routing brain ([github.com/Code-Router/CodeRouter](https://github.com/Code-Router/CodeRouter))
-- A planner LLM decomposes each prompt into a task DAG and picks the best-value model per task from a live scored catalog — frontier models for architecture, cheap/free models for tests and boilerplate
-- One agent per task in parallel git worktrees, with file-scope conflict serialization and 3-way merges into an integration branch
-- Lean per-agent context from a persisted SQLite repo index (symbol outlines + import graph); validators (lint/typecheck/tests) with bounded self-fix passes
-- Every plan, model assignment, cost, and merge is journaled and browsable — CLI, REPL, MCP server, and desktop app
-
-**ForesightAI** — AI-powered KPI forecasting for enterprise distribution networks (1,400+ endpoints)
-- GPT-4o analysis engine with multi-grain drill-down narrative reports
-- Dealer-level forecasting pipeline with automated backtesting (MAPE/RMSE) and rolling calibration
-- Multi-tenant isolation via PostgreSQL schema-per-tenant, asyncpg, and Redis caching
-
-**VerifyWise** — Open-source AI governance platform ([verifywise.ai](https://verifywise.ai/platform/llm-evaluations))
-- Built the LLM Evaluations module — judge orchestration, multi-provider abstraction (OpenAI, Anthropic, Google), and async evaluation pipelines
-- Automated testing for bias, toxicity, hallucination, and answer relevancy using DeepEval
-
-**AssistAI** — Enterprise RAG platform for automotive clients ([miventoassist.ai](https://miventoassist.ai))
-- 7-stage retrieval pipeline with hybrid search (E5-Large + BM25 via RRF fusion)
-- Entity-aware anti-hallucination filtering, multi-tenant Qdrant collections, and real-time SSE streaming
+</div>
 
 ---
 
+## Currently building
 
-<sub>More at [efeacar.com](https://efeacar.com)</sub>
+![Coderouter](https://img.shields.io/badge/CODEROUTER-Autonomous_Coding_Agent-16a34a?style=for-the-badge)
+
+**One task. Multiple models. Coordinated agents.**
+
+I'm building **Coderouter**, an autonomous coding agent that routes work
+across AI models and coordinates agents from planning through
+implementation and validation.
+
+- **Route intelligently** — Match each task to a model based on capability and cost.
+- **Work in parallel** — Coordinate agents in isolated Git worktrees and integrate their changes.
+- **Check the results** — Run validation and keep model assignments, costs, and outcomes inspectable.
+
+## Other things I've built
+
+| Project | My work & why it matters |
+| :--- | :--- |
+| **[VerifyWise](https://verifywise.ai/platform/llm-evaluations)** | Built LLM evaluation tools that help teams assess quality, hallucinations, bias, and toxicity—and build more trustworthy AI systems. |
+| **[AssistAI](https://miventoassist.ai)** | Built enterprise retrieval pipelines that help automotive employees find and use their company's information. |
+| **ForesightAI** | Built forecasting and AI reporting systems for distribution networks spanning **1,400+ endpoints**, helping teams understand performance and allocate resources. |
+
+## Tools I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Exploring:** model routing · agent coordination · LLM evaluation · retrieval systems
+
+---
+
+<div align="center">
+
+Have something interesting to build? [Let's talk.](mailto:efeacar2705@gmail.com)
+
+</div>
