@@ -36,17 +36,6 @@ implementation and validation.
 | **[AssistAI](https://miventoassist.ai)** | Built enterprise retrieval pipelines that help automotive employees find and use their company's information. |
 | **ForesightAI** | Built forecasting and AI reporting systems for distribution networks spanning **1,400+ endpoints**, helping teams understand performance and allocate resources. |
 
-## Tools I work with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Exploring:** model routing · agent coordination · LLM evaluation · retrieval systems
-
----
 
 <div align="center">
 
