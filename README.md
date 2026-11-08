@@ -15,20 +15,33 @@ Building autonomous agents, useful AI applications, and systems people can trust
 
 ---
 
+
 ## Currently building
 
-[![Sparse]<img width="1024" height="1024" alt="logo-app-icon" src="https://github.com/user-attachments/assets/877f80f2-75e3-49ae-8d2b-77e48c903025" />
+<div align="center">
+  <a href="https://github.com/Sparse-Agent/Sparse">
+    <img
+      src="https://github.com/user-attachments/assets/877f80f2-75e3-49ae-8d2b-77e48c903025"
+      alt="Sparse logo"
+      width="100"
+    />
+  </a>
 
+  <h3>Sparse — Autonomous Coding Agent</h3>
 
-**One task. Multiple models. Coordinated agents.**
+  <strong>One task. Multiple models. Coordinated agents.</strong>
+</div>
 
-I'm building **[Sparse](https://github.com/Sparse-Agent/Sparse)**, an autonomous coding agent that routes tasks across AI models and coordinates agents from planning through implementation and validation.
+<br>
 
-- **Intelligent routing** — Select models based on capability, cost, and task requirements using Bayesian estimates and benchmark evidence.
-- **Parallel execution** — Coordinate multiple agents in isolated Git worktrees, manage dependencies, and integrate their changes.
-- **Reliable execution** — Validate generated code, track execution outcomes, and use feedback to improve future routing decisions.
+I'm building **[Sparse](https://github.com/Sparse-Agent/Sparse)**, an autonomous coding agent that routes work across AI models and coordinates agents from planning through implementation and validation.
+
+- **Intelligent routing** — Select models based on capability, cost, and task requirements.
+- **Parallel execution** — Coordinate agents in isolated Git worktrees and integrate their changes.
+- **Reliable execution** — Validate generated code and track model assignments, costs, and outcomes.
 
 **[Explore Sparse and watch the demo →](https://github.com/Sparse-Agent/Sparse)**
+
 
 ## Other things I've built
 
