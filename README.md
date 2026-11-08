@@ -17,7 +17,8 @@ Building autonomous agents, useful AI applications, and systems people can trust
 
 ## Currently building
 
-[![Sparse](https://img.shields.io/badge/SPARSE-Autonomous_Coding_Agent-16a34a?style=for-the-badge)](https://github.com/Sparse-Agent/Sparse)
+[![Sparse]<img width="1024" height="1024" alt="logo-app-icon" src="https://github.com/user-attachments/assets/877f80f2-75e3-49ae-8d2b-77e48c903025" />
+
 
 **One task. Multiple models. Coordinated agents.**
 
