@@ -16,7 +16,7 @@ Building coding agents, useful AI tools, and systems people can trust.
 
 ## Currently building
 
-![Coderouter](https://img.shields.io/badge/CODEROUTER-Autonomous_Coding_Agent-16a34a?style=for-the-badge)
+![Sparse](https://img.shields.io/badge/CODEROUTER-Autonomous_Coding_Agent-16a34a?style=for-the-badge)
 
 **One task. Multiple models. Coordinated agents.**
 
