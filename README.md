@@ -20,7 +20,7 @@ Building coding agents, useful AI tools, and systems people can trust.
 
 **One task. Multiple models. Coordinated agents.**
 
-I'm building **Coderouter**, an autonomous coding agent that routes work
+I'm building **Sparse**, an autonomous coding agent that routes work
 across AI models and coordinates agents from planning through
 implementation and validation.
 
